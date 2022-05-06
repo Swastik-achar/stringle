@@ -2,9 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Steps to be followed
 
-In the project directory, you can run:
+### Clone or Zip Download
+
+Try clonninng or downloading the zip of this repo
+Once done `change the directory` to `stringle` and then run the below mentioned commands
 
 ### `npm install`
 
