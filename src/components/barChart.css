@@ -1,0 +1,43 @@
+.x-axis-label {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.vocabulary {
+    width: 12px;
+    height: 12px;
+    background: #FF808B;
+    border-radius: 50%;
+}
+
+.grammar {
+    width: 12px;
+    height: 12px;
+    background: #4D4CAC;
+    border-radius: 50%;
+}
+.listening {
+    width: 12px;
+    height: 12px;
+    background: #5E81F4;
+    border-radius: 50%;
+}
+
+.writing {
+    width: 12px;
+    height: 12px;
+    background: #C8C9E9;
+    border-radius: 50%;
+}
+
+.labelText {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #A2A2C2;
+    margin-left: 8px;
+    margin-top: -4px;
+}
